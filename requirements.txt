@@ -1,0 +1,10 @@
+torch>=2.4
+tiktoken>=0.7
+matplotlib>=3.8
+numpy>=1.26
+jupyter>=1.0
+# only needed for the full training pipeline cells (data prep, judge, Gradio demo)
+pyarrow>=15.0
+tqdm>=4.66
+ipywidgets>=8.1
+gradio>=4.0
